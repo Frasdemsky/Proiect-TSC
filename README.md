@@ -1,2 +1,3 @@
-# Proiect-TSC
-proiect tsc
+# Proiect-TSC - ceas
+
+tre sa vad pe ocw
