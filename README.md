@@ -1,3 +1,3 @@
 # Proiect-TSC - ceas
 
-tre sa vad pe ocw
+am tras trase printre pini in loc de via pentru ca nu stiam la acel moment ca pot pune via pe pin si sa fie in regula
